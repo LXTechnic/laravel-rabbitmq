@@ -1,5 +1,5 @@
 {
-  "name": "andares/laravel-queue-rabbitmq",
+  "name": "lxtech/laravel-rabbitmq",
   "description": "RabbitMQ driver for Laravel Queue. Supports Laravel Horizon. Modified by A.M",
   "license": "MIT",
   "authors": [{
